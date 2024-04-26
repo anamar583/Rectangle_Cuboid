@@ -20,7 +20,7 @@ This repository contains Python scripts for analyzing geometric shapes based on 
 1. Clone the repository to your local machine:
 git clone [link text](https://github.com/anamar583/rectangle_cuboid.git)
 2. Navigate to the cloned directory:
-   cd Rectangle_Cuboid
+   cd rectangle_cuboid
 3. Ensure you have Jupyter Notebook installed on your machine.
 4. Prepare the `points.txt` file with the coordinates of the points.
 5. Run the desired Python script (e.g., `rectangle.ipynb`, `cuboid_3D.ipynb`) to analyze the geometric shapes based on the given points.
