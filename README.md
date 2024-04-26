@@ -1,5 +1,5 @@
 # Geometry Assignment
-# Rectangle_Cuboid
+# rectangle_cuboid
 Python Assignment: Rectangle and Cuboid Analysis
 
 
