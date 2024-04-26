@@ -18,7 +18,7 @@ This repository contains Python scripts for analyzing geometric shapes based on 
 ## Usage
 
 1. Clone the repository to your local machine:
-git clone [link text](https://github.com/anamar583/Rectangle_Cuboid.git)
+git clone [link text](https://github.com/anamar583/rectangle_cuboid.git)
 2. Navigate to the cloned directory:
    cd Rectangle_Cuboid
 3. Ensure you have Python installed on your machine.
